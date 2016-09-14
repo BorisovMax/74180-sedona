@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Maxim Borisov](https://up.htmlacademy.ru/adaptive/8/user/74180).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
